@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 # PROGRAM:
+``````
 ## Program to swap two values.
 ## Developed by: ALIYA SHEEMA
 ## RegisterNumber: 23005529
@@ -27,7 +28,7 @@ c=a
 a=b
 b=c
 print("Swapped values are:",a,b)
-
+``````
 # OUTPUT:
 ![Alt text](<Screenshot 2023-10-20 091154.png>)
 
